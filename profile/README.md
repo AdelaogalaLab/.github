@@ -4,7 +4,7 @@ The Adelaiye-Ogala Laboratory is a basic science and translational research lab 
 
 Our laboratory is dedicated to investigating genitourinary cancers and developing novel therapeutic strategies for lasting clinical outcomes. We also provide a platform for nurturing the next generation of cancer researchers and leaders in STEM.
 
-This GitHub profile hosts code and computational analyses associated with publications from our laboratory. Each publication entry links to the repository containing the supporting computational analysis and documentation. Each publication entry links to the repository containing the supporting computational analysis and documentation.
+This GitHub profile hosts code and computational analyses associated with publications from our laboratory. Each publication entry links to the repository containing the supporting computational analysis and documentation.
 
 For more information about our research, publications, and laboratory, visit the [Adelaiye-Ogala Laboratory website](https://adelaiye-ogala-laboratory.com/).
 
